@@ -1,3 +1,3 @@
 # calculator-OOP
 
-[Deploy](https://github.com/GiselleBarbosa/calculator-OOP)
+[Deploy](https://gisellebarbosa.github.io/calculator-OOP/)
